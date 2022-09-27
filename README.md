@@ -3,6 +3,7 @@
 
 ---
 소개 및 목차
+
 ![image](https://user-images.githubusercontent.com/97435321/192409747-ee5c6b04-cb56-4d8e-94fc-52f642cacb4d.png)
 1. 데이터 구성
   불러오기, 변환, 전처리
@@ -10,6 +11,7 @@
   CNN 인코더 디코더
 3. 월리를 찾아라
   평가
+  
 ![image](https://user-images.githubusercontent.com/97435321/192409943-eb4cbb3b-4996-4c5d-b002-465006dd14b3.png)
 
 - 데이터 선정 이유 : 인공지능에 대해 누구나 친숙하게 다가가고 관심을 가질 수 있도록 하기위해 ‘월리를 찾아서’ 라는 우리에게 친숙한 이미지를 바탕으로 하였습니다.
