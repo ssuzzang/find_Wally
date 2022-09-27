@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/97435321/192409663-720f2706-d170-4f5f-91c9-ae2e2a8afbb7.png)
 
 ---
-소개 및 목차
+- 소개 및 목차
 
 ![image](https://user-images.githubusercontent.com/97435321/192409747-ee5c6b04-cb56-4d8e-94fc-52f642cacb4d.png)
 1. 데이터 구성
