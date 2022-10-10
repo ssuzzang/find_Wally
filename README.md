@@ -4,7 +4,6 @@ Date : 2022.5.19~2022.5.24
 
 Tags : `keras`  `tensorlow`  `lables`  `skimage` `generator`
 
-Link :
 ---
 - 소개 및 목차
 
