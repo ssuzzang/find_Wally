@@ -8,9 +8,7 @@ Link :
 
 [https://github.com/ssuzzang/find_Wally](https://github.com/ssuzzang/find_Wally)
 
-발표영상 : 
-
-[](https://youtu.be/lJxt7zjtuaE)
+발표영상 : https://www.youtube.com/watch?v=lJxt7zjtuaE
 ---
 - 소개 및 목차
 
