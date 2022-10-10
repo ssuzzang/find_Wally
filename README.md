@@ -1,6 +1,10 @@
 # project4
 ![image](https://user-images.githubusercontent.com/97435321/192409663-720f2706-d170-4f5f-91c9-ae2e2a8afbb7.png)
+Date : 2022.5.19~2022.5.24
 
+Tags : `keras`  `tensorlow`  `lables`  `skimage` `generator`
+
+Link :
 ---
 - 소개 및 목차
 
