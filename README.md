@@ -6,7 +6,7 @@ Tags : `keras`  `tensorlow`  `lables`  `skimage` `generator`
 
 Link : https://github.com/ssuzzang/find_Wally
 
-Link : https://www.youtube.com/watch?v=lJxt7zjtuaE
+영상 : https://www.youtube.com/watch?v=lJxt7zjtuaE
 
 ---
 - 소개 및 목차
