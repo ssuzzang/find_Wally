@@ -4,11 +4,9 @@ Date : 2022.5.19~2022.5.24
 
 Tags : `keras`  `tensorlow`  `lables`  `skimage` `generator`
 
-Link : 
+Link : https://github.com/ssuzzang/find_Wally](https://github.com/ssuzzang/find_Wally)
 
-[https://github.com/ssuzzang/find_Wally](https://github.com/ssuzzang/find_Wally)
-
-발표영상 : https://www.youtube.com/watch?v=lJxt7zjtuaE
+Link : https://www.youtube.com/watch?v=lJxt7zjtuaE
 ---
 - 소개 및 목차
 
